@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ExcelAnalytics.Application/1.0.0": {
+        "dependencies": {
+          "ExcelAnalytics.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ExcelAnalytics.Application.dll": {}
+        }
+      },
+      "ExcelAnalytics.Domain/1.0.0": {
+        "runtime": {
+          "ExcelAnalytics.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExcelAnalytics.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ExcelAnalytics.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

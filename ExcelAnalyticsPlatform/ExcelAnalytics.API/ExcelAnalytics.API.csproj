@@ -1,0 +1,47 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers - Copy\**" />
+    <Compile Remove="NewFolder - Copy\**" />
+    <Compile Remove="NewFolder1 - Copy %283%29\**" />
+    <Content Remove="Controllers - Copy\**" />
+    <Content Remove="NewFolder - Copy\**" />
+    <Content Remove="NewFolder1 - Copy %283%29\**" />
+    <EmbeddedResource Remove="Controllers - Copy\**" />
+    <EmbeddedResource Remove="NewFolder - Copy\**" />
+    <EmbeddedResource Remove="NewFolder1 - Copy %283%29\**" />
+    <None Remove="Controllers - Copy\**" />
+    <None Remove="NewFolder - Copy\**" />
+    <None Remove="NewFolder1 - Copy %283%29\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.104.2" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.18" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.18">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Middlewares\" />
+    <Folder Include="Extensions\" />
+    <Folder Include="Configurations\" />
+    <Folder Include="Uploads\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExcelAnalytics.Application\ExcelAnalytics.Application.csproj" />
+    <ProjectReference Include="..\ExcelAnalytics.Domain\ExcelAnalytics.Domain.csproj" />
+    <ProjectReference Include="..\ExcelAnalytics.Infrastructure\ExcelAnalytics.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
