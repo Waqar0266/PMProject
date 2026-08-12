@@ -48,4 +48,16 @@ public class AllocationRepository : IAllocationRepository
     {
         return await _context.AllocationRecords.ToListAsync();
     }
+
+    public async Task UpdateProjectNameAsync(string oldName, string newName)
+    {
+        var records = await _context.AllocationRecords
+            .Where(x => x.ProjectName.ToLower() == oldName.ToLower())
+            .ToListAsync();
+
+        foreach (var record in records)
+            record.ProjectName = newName;
+
+        await _context.SaveChangesAsync();
+    }
 }

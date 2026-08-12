@@ -11,6 +11,7 @@ public class ApplicationDbContext : DbContext
     }
 
     public DbSet<Country> Countries => Set<Country>();
+    public DbSet<Project> Projects => Set<Project>();
     public DbSet<RateConfiguration> RateConfigurations => Set<RateConfiguration>();
     public DbSet<AllocationRecord> AllocationRecords => Set<AllocationRecord>();
     public DbSet<Currency> Currencies => Set<Currency>();

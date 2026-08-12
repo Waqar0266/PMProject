@@ -2,6 +2,8 @@
 {
     public Guid CountryId { get; set; }
 
+    public Guid ProjectId { get; set; }
+
     public Guid CurrencyId { get; set; }
 
     public int Year { get; set; }

@@ -3,33 +3,46 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39FDF37D-B531-4EB5-AC72-62DB718AB02F}|..\\ExcelAnalytics.Application\\ExcelAnalytics.Application.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.application\\interfaces\\iallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811104819_ProjectMigration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811103200_ProjectMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA98F7A9-2584-40D5-91AF-7E927041E900}|..\\ExcelAnalytics.Domain\\ExcelAnalytics.Domain.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.domain\\entities\\rateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.api\\controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|solutionrelative:controllers\\uploadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\repositories\\allocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811102250_Project-migration1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.api\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|solutionrelative:controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39FDF37D-B531-4EB5-AC72-62DB718AB02F}|..\\ExcelAnalytics.Application\\ExcelAnalytics.Application.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.application\\interfaces\\iallocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\repositories\\allocationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\extensions\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\repositories\\rateconfigurationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39FDF37D-B531-4EB5-AC72-62DB718AB02F}|..\\ExcelAnalytics.Application\\ExcelAnalytics.Application.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.application\\services\\rateconfigurationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\migrations\\20260731100421_addrevenueusd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA98F7A9-2584-40D5-91AF-7E927041E900}|..\\ExcelAnalytics.Domain\\ExcelAnalytics.Domain.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.domain\\entities\\allocationrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -39,9 +52,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{39FDF37D-B531-4EB5-AC72-62DB718AB02F}|..\\ExcelAnalytics.Application\\ExcelAnalytics.Application.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.application\\dtos\\rateconfiguration\\createrateconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094500_initialmigrationaddalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094130_initialmigrationaddalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -54,9 +64,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{39FDF37D-B531-4EB5-AC72-62DB718AB02F}|..\\ExcelAnalytics.Application\\ExcelAnalytics.Application.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.application\\dtos\\rateconfiguration\\rateconfigurationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA98F7A9-2584-40D5-91AF-7E927041E900}|..\\ExcelAnalytics.Domain\\ExcelAnalytics.Domain.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.domain\\entities\\rateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731085910_AddCurrencyTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -158,10 +165,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{7A108782-337B-4B75-A50C-21A0B5900B24}|..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.infrastructure\\persistence\\configurations\\countryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|c:\\users\\administrator.desktop-hvns9eb\\onedrive\\desktop\\pmpreportingproject\\excelanalyticsplatform\\excelanalytics.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{72B1F573-C7E8-4567-99FD-EF3CB0625D5B}|ExcelAnalytics.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -171,50 +174,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAApwAwAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "20260811104819_ProjectMigration1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811104819_ProjectMigration1.cs",
+              "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260811104819_ProjectMigration1.cs",
+              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811104819_ProjectMigration1.cs",
+              "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260811104819_ProjectMigration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T04:11:05.408Z",
+              "WhenOpened": "2026-08-11T10:48:19.376Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "20260811103200_ProjectMigration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811103200_ProjectMigration.cs",
+              "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260811103200_ProjectMigration.cs",
+              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811103200_ProjectMigration.cs",
+              "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260811103200_ProjectMigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T10:32:00.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260811102250_Project-migration1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811102250_Project-migration1.cs",
+              "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260811102250_Project-migration1.cs",
+              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260811102250_Project-migration1.cs",
+              "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260811102250_Project-migration1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-11T10:22:51.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Persistence\\Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAApwAoAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-30T17:00:41.128Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UploadController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\UploadController.cs",
               "RelativeDocumentMoniker": "Controllers\\UploadController.cs",
               "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\UploadController.cs",
               "RelativeToolTip": "Controllers\\UploadController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAowLoBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-30T18:07:08.554Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-30T17:01:19.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RateConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
+              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
+              "RelativeToolTip": "..\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
+              "ViewState": "AgIAAAAAAADQzMzMzMwowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:47:44.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Controllers\\DashboardController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAApwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-31T04:11:05.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "IAllocationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Interfaces\\IAllocationRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Interfaces\\IAllocationRepository.cs",
@@ -222,12 +290,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Interfaces\\IAllocationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T18:14:27.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T18:14:27.345Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "AllocationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Repositories\\AllocationRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Repositories\\AllocationRepository.cs",
@@ -235,12 +302,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Repositories\\AllocationRepository.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAIwBgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T18:15:01.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T18:15:01.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Extensions\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Extensions\\DependencyInjection.cs",
@@ -248,12 +314,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Extensions\\DependencyInjection.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAAMwBkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:08:53.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:08:53.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "RateConfigurationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Repositories\\RateConfigurationRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Repositories\\RateConfigurationRepository.cs",
@@ -261,25 +326,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Repositories\\RateConfigurationRepository.cs",
               "ViewState": "AgIAAF8AAAAAAAAAAAAowGoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:57:16.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:57:16.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20260731100421_AddRevenueUSD.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731100421_AddRevenueUSD.cs",
-              "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731100421_AddRevenueUSD.cs",
-              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731100421_AddRevenueUSD.cs",
-              "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731100421_AddRevenueUSD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T10:04:22.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "RateConfigurationService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Services\\RateConfigurationService.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Services\\RateConfigurationService.cs",
@@ -287,12 +338,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Services\\RateConfigurationService.cs",
               "ViewState": "AgIAAGQAAAAAAAAAAAAcwHUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:58:51.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:58:51.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "UpdateRateConfigurationDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\UpdateRateConfigurationDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\UpdateRateConfigurationDto.cs",
@@ -300,12 +350,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\UpdateRateConfigurationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:55:21.613Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:55:21.613Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "AllocationRecord.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Entities\\AllocationRecord.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Domain\\Entities\\AllocationRecord.cs",
@@ -313,12 +362,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Domain\\Entities\\AllocationRecord.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAiwCMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T18:11:17.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T18:11:17.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "CreateRateConfigurationDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\CreateRateConfigurationDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\CreateRateConfigurationDto.cs",
@@ -326,25 +374,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\CreateRateConfigurationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:55:01.101Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:55:01.101Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20260731094500_initialmigrationaddalltables.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094500_initialmigrationaddalltables.cs",
-              "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094500_initialmigrationaddalltables.cs",
-              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094500_initialmigrationaddalltables.cs",
-              "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094500_initialmigrationaddalltables.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T09:45:01.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "20260731094130_initialmigrationaddalltables.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094130_initialmigrationaddalltables.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094130_initialmigrationaddalltables.cs",
@@ -352,12 +386,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731094130_initialmigrationaddalltables.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T09:41:31.259Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T09:41:31.259Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "RateConfigurationDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\RateConfigurationDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\RateConfigurationDto.cs",
@@ -365,12 +398,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\RateConfiguration\\RateConfigurationDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:53:38.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:53:38.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Currency.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Entities\\Currency.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Domain\\Entities\\Currency.cs",
@@ -378,12 +410,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Domain\\Entities\\Currency.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:50:55.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:50:55.387Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "20260731093240_AddCurrencyToRateConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731093240_AddCurrencyToRateConfiguration.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731093240_AddCurrencyToRateConfiguration.cs",
@@ -391,25 +422,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731093240_AddCurrencyToRateConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T09:32:40.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T09:32:40.481Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RateConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
-              "RelativeDocumentMoniker": "..\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
-              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
-              "RelativeToolTip": "..\\ExcelAnalytics.Domain\\Entities\\RateConfiguration.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:47:44.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "20260731085910_AddCurrencyTable.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731085910_AddCurrencyTable.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731085910_AddCurrencyTable.cs",
@@ -417,12 +434,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731085910_AddCurrencyTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:59:10.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:59:10.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "CurrencyController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\CurrencyController.cs",
               "RelativeDocumentMoniker": "Controllers\\CurrencyController.cs",
@@ -430,12 +446,11 @@
               "RelativeToolTip": "Controllers\\CurrencyController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAcwDYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:57:26.837Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:57:26.837Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "CurrencyService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Services\\CurrencyService.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Services\\CurrencyService.cs",
@@ -443,12 +458,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Services\\CurrencyService.cs",
               "ViewState": "AgIAADwAAAAAAAAAAAAcwFEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:55:12.044Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:55:12.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "CurrencyRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Repositories\\CurrencyRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Repositories\\CurrencyRepository.cs",
@@ -456,12 +470,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Repositories\\CurrencyRepository.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:54:33.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:54:33.852Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "ICurrencyService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Interfaces\\ICurrencyService.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Interfaces\\ICurrencyService.cs",
@@ -469,12 +482,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Interfaces\\ICurrencyService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:53:50.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:53:50.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -482,12 +494,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:02:16.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:02:16.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "ICurrencyRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Interfaces\\ICurrencyRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Interfaces\\ICurrencyRepository.cs",
@@ -495,12 +506,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Interfaces\\ICurrencyRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:53:29.827Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:53:29.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "UpdateCurrencyDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\Currency\\UpdateCurrencyDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\Currency\\UpdateCurrencyDto.cs",
@@ -508,12 +518,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\Currency\\UpdateCurrencyDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:53:01.55Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:53:01.55Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "CreateCurrencyDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\Currency\\CreateCurrencyDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\Currency\\CreateCurrencyDto.cs",
@@ -521,12 +530,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\Currency\\CreateCurrencyDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:52:41.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:52:41.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "CurrencyDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\Currency\\CurrencyDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\Currency\\CurrencyDto.cs",
@@ -534,12 +542,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\Currency\\CurrencyDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T08:52:21.948Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T08:52:21.948Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 30,
               "Title": "IRateConfigurationRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Interfaces\\IRateConfigurationRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Interfaces\\IRateConfigurationRepository.cs",
@@ -547,12 +554,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Interfaces\\IRateConfigurationRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:55:53.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:55:53.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "20260731064619_addnewcolumns.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731064619_addnewcolumns.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731064619_addnewcolumns.cs",
@@ -560,12 +566,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731064619_addnewcolumns.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T06:46:19.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T06:46:19.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "RateConfigurationsController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\RateConfigurationsController.cs",
               "RelativeDocumentMoniker": "Controllers\\RateConfigurationsController.cs",
@@ -573,12 +578,11 @@
               "RelativeToolTip": "Controllers\\RateConfigurationsController.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAwwDMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T18:00:13.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T18:00:13.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Domain\\Common\\BaseEntity.cs",
@@ -586,12 +590,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Domain\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:11:47.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:11:47.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 34,
               "Title": "Country.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Domain\\Entities\\Country.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Domain\\Entities\\Country.cs",
@@ -599,12 +602,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Domain\\Entities\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:12:17.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:12:17.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 35,
               "Title": "20260731042337_FixDateColumns.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731042337_FixDateColumns.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731042337_FixDateColumns.cs",
@@ -612,12 +614,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731042337_FixDateColumns.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T04:23:37.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T04:23:37.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 36,
               "Title": "20260731040422_AddAllocationFields.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260731040422_AddAllocationFields.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731040422_AddAllocationFields.cs",
@@ -625,12 +626,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260731040422_AddAllocationFields.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-31T04:04:22.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-31T04:04:22.947Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 37,
               "Title": "20260730182905_UpdateAllocationRecord.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260730182905_UpdateAllocationRecord.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260730182905_UpdateAllocationRecord.cs",
@@ -638,12 +638,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260730182905_UpdateAllocationRecord.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T18:29:06.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T18:29:06.45Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "IRateConfigurationService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Interfaces\\IRateConfigurationService.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Interfaces\\IRateConfigurationService.cs",
@@ -651,12 +650,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Interfaces\\IRateConfigurationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:56:38.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:56:38.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "20260730174931_AddRateConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Migrations\\20260730174931_AddRateConfiguration.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260730174931_AddRateConfiguration.cs",
@@ -664,12 +662,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Migrations\\20260730174931_AddRateConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:49:31.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:49:31.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "RateConfigurationConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Persistence\\Configurations\\RateConfigurationConfiguration.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Persistence\\Configurations\\RateConfigurationConfiguration.cs",
@@ -677,12 +674,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Persistence\\Configurations\\RateConfigurationConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAcwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:48:37.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:48:37.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "CountriesController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\Controllers\\CountriesController.cs",
               "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
@@ -690,12 +686,11 @@
               "RelativeToolTip": "Controllers\\CountriesController.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAcwDkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:42:10.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:42:10.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Repositories\\CountryRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Repositories\\CountryRepository.cs",
@@ -703,12 +698,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Repositories\\CountryRepository.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAcwDMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:38:53.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:38:53.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "CountryService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Services\\CountryService.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Services\\CountryService.cs",
@@ -716,12 +710,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Services\\CountryService.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:39:33.598Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:39:33.598Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ICountryService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Interfaces\\ICountryService.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Interfaces\\ICountryService.cs",
@@ -729,12 +722,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Interfaces\\ICountryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:37:09.671Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:37:09.671Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "ICountryRepository.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\Interfaces\\ICountryRepository.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\Interfaces\\ICountryRepository.cs",
@@ -742,12 +734,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\Interfaces\\ICountryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:36:07.417Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:36:07.417Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "UpdateCountryDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\Country\\UpdateCountryDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\Country\\UpdateCountryDto.cs",
@@ -755,12 +746,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\Country\\UpdateCountryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:35:11.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:35:11.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "CreateCountryDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\Country\\CreateCountryDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\Country\\CreateCountryDto.cs",
@@ -768,12 +758,11 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\Country\\CreateCountryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:34:52.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:34:52.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "CountryDto.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Application\\DTOs\\Country\\CountryDto.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Application\\DTOs\\Country\\CountryDto.cs",
@@ -781,38 +770,35 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Application\\DTOs\\Country\\CountryDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:34:14.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:34:14.674Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
-              "Title": "ExcelAnalytics.Infrastructure",
+              "DocumentIndex": 50,
+              "Title": "ExcelAnalytics.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj",
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\ExcelAnalytics.Infrastructure.csproj",
               "ViewState": "AgIAAAwAAAAAAAAAAADwvyEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-30T16:54:14.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T16:54:14.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ExcelAnalytics.API",
+              "DocumentIndex": 49,
+              "Title": "ExcelAnalytics.API.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\ExcelAnalytics.API.csproj",
               "RelativeDocumentMoniker": "ExcelAnalytics.API.csproj",
               "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\ExcelAnalytics.API.csproj",
               "RelativeToolTip": "ExcelAnalytics.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-07-30T16:51:10.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T16:51:10.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "CountryConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.Infrastructure\\Persistence\\Configurations\\CountryConfiguration.cs",
               "RelativeDocumentMoniker": "..\\ExcelAnalytics.Infrastructure\\Persistence\\Configurations\\CountryConfiguration.cs",
@@ -820,21 +806,7 @@
               "RelativeToolTip": "..\\ExcelAnalytics.Infrastructure\\Persistence\\Configurations\\CountryConfiguration.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAcwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T17:13:10.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator.DESKTOP-HVNS9EB\\OneDrive\\Desktop\\PMPReportingProject\\ExcelAnalyticsPlatform\\ExcelAnalytics.API\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-07-30T17:01:19.617Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-30T17:13:10.706Z"
             }
           ]
         }

@@ -16,4 +16,5 @@ public interface IAllocationRepository
 
     Task<List<AllocationRecord>> GetAllAsync();
     Task DeleteByMonthYearAsync(int year, int month);
+    Task UpdateProjectNameAsync(string oldName, string newName);
 }

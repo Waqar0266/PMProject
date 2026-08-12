@@ -35,6 +35,13 @@ export default function Layout() {
                 </Link>
 
                 <Link
+                    className="d-block text-white mb-3 text-decoration-none"
+                    to="/project"
+                >
+                    📁 Project Master
+                </Link>
+
+                <Link
                     className="d-block text-white text-decoration-none"
                     to="/rate"
                 >

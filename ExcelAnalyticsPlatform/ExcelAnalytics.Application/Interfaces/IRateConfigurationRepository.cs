@@ -9,8 +9,9 @@ public interface IRateConfigurationRepository
     Task AddAsync(RateConfiguration rate);
     Task UpdateAsync(RateConfiguration rate);
     Task DeleteAsync(Guid id);
-    Task<RateConfiguration?> GetByCountryYearMonthAsync(
-    string countryCode,
-    int year,
-    int month);
+    Task<RateConfiguration?> GetByCountryProjectYearMonthAsync(
+        string countryCode,
+        string projectName,
+        int year,
+        int month);
 }

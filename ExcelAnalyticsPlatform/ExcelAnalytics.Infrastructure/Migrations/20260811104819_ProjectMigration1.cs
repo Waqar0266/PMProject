@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ExcelAnalytics.Infrastructure.Migrations
 {
     /// <inheritdoc />
-    public partial class initialmigrationaddalltables : Migration
+    public partial class ProjectMigration1 : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -41,6 +41,7 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                     FinalAllocationDays = table.Column<decimal>(type: "numeric", nullable: false),
                     Rate = table.Column<decimal>(type: "numeric", nullable: false),
                     Revenue = table.Column<decimal>(type: "numeric", nullable: false),
+                    RevenueUSD = table.Column<decimal>(type: "numeric", nullable: false),
                     Year = table.Column<int>(type: "integer", nullable: false),
                     Month = table.Column<int>(type: "integer", nullable: false),
                     CreatedOn = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
@@ -90,11 +91,28 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                 });
 
             migrationBuilder.CreateTable(
+                name: "Projects",
+                columns: table => new
+                {
+                    Id = table.Column<Guid>(type: "uuid", nullable: false),
+                    Name = table.Column<string>(type: "character varying(200)", maxLength: 200, nullable: false),
+                    IsActive = table.Column<bool>(type: "boolean", nullable: false),
+                    CreatedOn = table.Column<DateTime>(type: "timestamp with time zone", nullable: false),
+                    ModifiedOn = table.Column<DateTime>(type: "timestamp with time zone", nullable: true),
+                    IsDeleted = table.Column<bool>(type: "boolean", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Projects", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
                 name: "RateConfigurations",
                 columns: table => new
                 {
                     Id = table.Column<Guid>(type: "uuid", nullable: false),
                     CountryId = table.Column<Guid>(type: "uuid", nullable: false),
+                    ProjectId = table.Column<Guid>(type: "uuid", nullable: false),
                     Year = table.Column<int>(type: "integer", nullable: false),
                     Month = table.Column<int>(type: "integer", nullable: false),
                     Rate = table.Column<decimal>(type: "numeric(18,2)", nullable: false),
@@ -119,7 +137,19 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                         principalTable: "Currencies",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Restrict);
+                    table.ForeignKey(
+                        name: "FK_RateConfigurations_Projects_ProjectId",
+                        column: x => x.ProjectId,
+                        principalTable: "Projects",
+                        principalColumn: "Id",
+                        onDelete: ReferentialAction.Restrict);
                 });
+
+            migrationBuilder.CreateIndex(
+                name: "IX_Projects_Name",
+                table: "Projects",
+                column: "Name",
+                unique: true);
 
             migrationBuilder.CreateIndex(
                 name: "IX_RateConfigurations_CountryId",
@@ -130,6 +160,11 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                 name: "IX_RateConfigurations_CurrencyId",
                 table: "RateConfigurations",
                 column: "CurrencyId");
+
+            migrationBuilder.CreateIndex(
+                name: "IX_RateConfigurations_ProjectId",
+                table: "RateConfigurations",
+                column: "ProjectId");
         }
 
         /// <inheritdoc />
@@ -146,6 +181,9 @@ namespace ExcelAnalytics.Infrastructure.Migrations
 
             migrationBuilder.DropTable(
                 name: "Currencies");
+
+            migrationBuilder.DropTable(
+                name: "Projects");
         }
     }
 }

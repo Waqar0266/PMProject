@@ -5,6 +5,7 @@ C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\Exce
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Domain\obj\Debug\net9.0\ExcelAnalytics.Domain.AssemblyInfoInputs.cache
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Domain\obj\Debug\net9.0\ExcelAnalytics.Domain.AssemblyInfo.cs
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Domain\obj\Debug\net9.0\ExcelAnalytics.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Domain\obj\Debug\net9.0\ExcelAnalytics.Domain.sourcelink.json
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Domain\obj\Debug\net9.0\ExcelAnalytics.Domain.dll
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Domain\obj\Debug\net9.0\refint\ExcelAnalytics.Domain.dll
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Domain\obj\Debug\net9.0\ExcelAnalytics.Domain.pdb

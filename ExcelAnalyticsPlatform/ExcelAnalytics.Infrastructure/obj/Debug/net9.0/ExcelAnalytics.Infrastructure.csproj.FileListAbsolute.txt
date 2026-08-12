@@ -11,6 +11,7 @@ C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\Exce
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Infrastructure\obj\Debug\net9.0\ExcelAnalytics.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Infrastructure\obj\Debug\net9.0\ExcelAnalytics.Infrastructure.AssemblyInfo.cs
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Infrastructure\obj\Debug\net9.0\ExcelAnalytics.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Infrastructure\obj\Debug\net9.0\ExcelAnalytics.Infrastructure.sourcelink.json
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Infrastructure\obj\Debug\net9.0\ExcelAna.5DD015ED.Up2Date
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Infrastructure\obj\Debug\net9.0\ExcelAnalytics.Infrastructure.dll
 C:\Users\Administrator.DESKTOP-HVNS9EB\OneDrive\Desktop\PMPReportingProject\ExcelAnalyticsPlatform\ExcelAnalytics.Infrastructure\obj\Debug\net9.0\refint\ExcelAnalytics.Infrastructure.dll

@@ -8,6 +8,10 @@ public class RateConfiguration : BaseEntity
 
     public Country Country { get; set; } = null!;
 
+    public Guid ProjectId { get; set; }
+
+    public Project Project { get; set; } = null!;
+
     public int Year { get; set; }
 
     public int Month { get; set; }

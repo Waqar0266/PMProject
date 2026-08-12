@@ -18,5 +18,10 @@ public class RateConfigurationConfiguration : IEntityTypeConfiguration<RateConfi
         builder.HasOne(x => x.Country)
                .WithMany()
                .HasForeignKey(x => x.CountryId);
+
+        builder.HasOne(x => x.Project)
+               .WithMany(x => x.RateConfigurations)
+               .HasForeignKey(x => x.ProjectId)
+               .OnDelete(DeleteBehavior.Restrict);
     }
 }

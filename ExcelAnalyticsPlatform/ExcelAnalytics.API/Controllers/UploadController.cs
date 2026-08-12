@@ -99,6 +99,7 @@ public class UploadController : ControllerBase
                 allocationMonth);
 
             List<AllocationRecord> allocations = new();
+            List<(string EmployeeCode, string EmployeeName, string Country, string Project)> missingRateRows = new();
 
             foreach (var row in worksheet.RowsUsed()
                 .Where(x => x.RowNumber() > headerRow.RowNumber()))
@@ -131,13 +132,26 @@ public class UploadController : ControllerBase
                 string countryCode =
                     GetCell(row, headerMap, "Allocated For");
 
+                string projectName =
+                    GetCell(row, headerMap, "Project Name");
+
                 var rateConfiguration =
-    await _rateConfigurationRepository.GetByCountryYearMonthAsync(
-        countryCode,
-        allocationYear,
-        allocationMonth);
+                    await _rateConfigurationRepository.GetByCountryProjectYearMonthAsync(
+                        countryCode,
+                        projectName,
+                        allocationYear,
+                        allocationMonth);
 
                 decimal rate = rateConfiguration?.Rate ?? 0;
+
+                if (rateConfiguration == null)
+                {
+                    missingRateRows.Add((
+                        GetCell(row, headerMap, "Emp Code"),
+                        GetCell(row, headerMap, "Resource name"),
+                        countryCode,
+                        projectName));
+                }
 
                 // Revenue in configured currency
                 decimal revenue = finalDays * rate;
@@ -190,10 +204,28 @@ public class UploadController : ControllerBase
             await _allocationRepository.AddRangeAsync(allocations);
             await _allocationRepository.SaveAsync();
 
+            var missingRateWarnings = missingRateRows
+                .GroupBy(x => new { x.Country, x.Project })
+                .Select(g => new
+                {
+                    Country = g.Key.Country,
+                    Project = g.Key.Project,
+                    Year = allocationYear,
+                    Month = allocationMonth,
+                    MonthName = CultureInfo.InvariantCulture.DateTimeFormat.GetMonthName(allocationMonth),
+                    RowCount = g.Count(),
+                    Employees = g.Select(x => $"{x.EmployeeName} ({x.EmployeeCode})").Take(10).ToList()
+                })
+                .ToList();
+
             return Ok(new
             {
-                Message = "Excel imported successfully.",
-                RecordsImported = allocations.Count
+                Message = missingRateWarnings.Any()
+                    ? "Excel imported with warnings — some rows have no matching rate."
+                    : "Excel imported successfully.",
+                RecordsImported = allocations.Count,
+                RecordsWithMissingRate = missingRateRows.Count,
+                MissingRateWarnings = missingRateWarnings
             });
         }
         catch (Exception ex)

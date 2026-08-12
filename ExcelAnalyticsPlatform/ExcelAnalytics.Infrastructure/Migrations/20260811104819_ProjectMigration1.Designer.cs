@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace ExcelAnalytics.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260731094500_initialmigrationaddalltables")]
-    partial class initialmigrationaddalltables
+    [Migration("20260811104819_ProjectMigration1")]
+    partial class ProjectMigration1
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -118,6 +118,9 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                     b.Property<decimal>("Revenue")
                         .HasColumnType("numeric");
 
+                    b.Property<decimal>("RevenueUSD")
+                        .HasColumnType("numeric");
+
                     b.Property<DateTime?>("StartDate")
                         .HasColumnType("timestamp without time zone");
 
@@ -217,6 +220,37 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                     b.ToTable("Currencies");
                 });
 
+            modelBuilder.Entity("ExcelAnalytics.Domain.Entities.Project", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<DateTime>("CreatedOn")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("boolean");
+
+                    b.Property<bool>("IsDeleted")
+                        .HasColumnType("boolean");
+
+                    b.Property<DateTime?>("ModifiedOn")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(200)
+                        .HasColumnType("character varying(200)");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("Name")
+                        .IsUnique();
+
+                    b.ToTable("Projects", (string)null);
+                });
+
             modelBuilder.Entity("ExcelAnalytics.Domain.Entities.RateConfiguration", b =>
                 {
                     b.Property<Guid>("Id")
@@ -244,6 +278,9 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                     b.Property<int>("Month")
                         .HasColumnType("integer");
 
+                    b.Property<Guid>("ProjectId")
+                        .HasColumnType("uuid");
+
                     b.Property<decimal>("Rate")
                         .HasColumnType("numeric(18,2)");
 
@@ -255,6 +292,8 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                     b.HasIndex("CountryId");
 
                     b.HasIndex("CurrencyId");
+
+                    b.HasIndex("ProjectId");
 
                     b.ToTable("RateConfigurations", (string)null);
                 });
@@ -273,9 +312,22 @@ namespace ExcelAnalytics.Infrastructure.Migrations
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
 
+                    b.HasOne("ExcelAnalytics.Domain.Entities.Project", "Project")
+                        .WithMany("RateConfigurations")
+                        .HasForeignKey("ProjectId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
                     b.Navigation("Country");
 
                     b.Navigation("Currency");
+
+                    b.Navigation("Project");
+                });
+
+            modelBuilder.Entity("ExcelAnalytics.Domain.Entities.Project", b =>
+                {
+                    b.Navigation("RateConfigurations");
                 });
 #pragma warning restore 612, 618
         }
